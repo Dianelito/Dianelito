@@ -8,9 +8,11 @@ Owner of Dianelito Studios
 
 ⭐Star Products of the Studio:
 
+🌟 DChunkLoader
+🌟 MayDPartner
+⭐ AutoBuild
+⭐ GameEvents
 ⭐ Alice Minecraft Bot
-🌟 AutoBuild
-🌟 GameEvents
 
 ⭐ = Product already on the market for some time
 🌟 = New Product
